@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ApiProduct\ApiProduct\bin\Release\netcoreapp2.1\ApiProduct.deps.json
+C:\Users\user\source\repos\ApiProduct\ApiProduct\bin\Release\netcoreapp2.1\ApiProduct.runtimeconfig.json
+C:\Users\user\source\repos\ApiProduct\ApiProduct\bin\Release\netcoreapp2.1\ApiProduct.runtimeconfig.dev.json
+C:\Users\user\source\repos\ApiProduct\ApiProduct\bin\Release\netcoreapp2.1\ApiProduct.dll
+C:\Users\user\source\repos\ApiProduct\ApiProduct\bin\Release\netcoreapp2.1\ApiProduct.pdb
+C:\Users\user\source\repos\ApiProduct\ApiProduct\obj\Release\netcoreapp2.1\ApiProduct.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ApiProduct\ApiProduct\obj\Release\netcoreapp2.1\ApiProduct.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ApiProduct\ApiProduct\obj\Release\netcoreapp2.1\ApiProduct.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\ApiProduct\ApiProduct\obj\Release\netcoreapp2.1\ApiProduct.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\ApiProduct\ApiProduct\obj\Release\netcoreapp2.1\ApiProduct.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ApiProduct\ApiProduct\obj\Release\netcoreapp2.1\ApiProduct.AssemblyInfo.cs
+C:\Users\user\source\repos\ApiProduct\ApiProduct\obj\Release\netcoreapp2.1\ApiProduct.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\ApiProduct\ApiProduct\obj\Release\netcoreapp2.1\ApiProduct.dll
+C:\Users\user\source\repos\ApiProduct\ApiProduct\obj\Release\netcoreapp2.1\ApiProduct.pdb
